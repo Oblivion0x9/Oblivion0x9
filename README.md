@@ -69,7 +69,12 @@ I'm currently developing my cybersecurity knowledge through practical exercises 
 ### Most Used Languages
 
 <p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oblivion0x9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oblicion0x9&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oblicion0x9&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oblicion0x9&theme=tokyonight" />
 </p>
 
 ### Contribution Streak
