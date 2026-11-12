@@ -36,7 +36,7 @@ I enjoy building web applications, exploring new technologies and understanding 
 ### Tools & Environment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,netcat,metasploit&theme=dark" />
 </p>
 
 ---
