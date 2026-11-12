@@ -63,8 +63,8 @@ I'm currently developing my cybersecurity knowledge through practical exercises 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Oblicion0x9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Oblicion0x9&layout=compact&langs_count=8&theme=dracula" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oblicion0x9&theme=dracula" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oblicion0x9&theme=dracula" />
 </p>
 
 ### Contribution Streak
