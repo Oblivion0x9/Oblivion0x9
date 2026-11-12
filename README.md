@@ -56,7 +56,7 @@ I enjoy building web applications, exploring new technologies and understanding 
 
 <p align="center">
 
-  <img src="https://skillicons.dev/icons?i=html,css,php,mysql,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,mysql,c,cpp&theme=dark" />
 
 </p>
 
