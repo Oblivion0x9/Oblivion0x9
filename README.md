@@ -36,7 +36,7 @@ I enjoy building web applications, exploring new technologies and understanding 
 ### Tools & Environment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,netcat,metasploit&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode&theme=dark" />
 </p>
 
 ---
@@ -63,19 +63,19 @@ I'm currently developing my cybersecurity knowledge through practical exercises 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=Oblivion0x9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 </p>
 
 ### Most Used Languages
 
 <p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oblivion0x9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ### Contribution Streak
 
 <p align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="90%" src="https://streak-stats.demolab.com?user=Oblivion0x9&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -83,7 +83,7 @@ I'm currently developing my cybersecurity knowledge through practical exercises 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/http-vincel">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.hackthebox.com/">
