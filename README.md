@@ -63,19 +63,19 @@ I'm currently developing my cybersecurity knowledge through practical exercises 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=Oblivion0x9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 </p>
 
 ### Most Used Languages
 
 <p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oblivion0x9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ### Contribution Streak
 
 <p align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="90%" src="https://streak-stats.demolab.com?user=Oblivion0x9&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
