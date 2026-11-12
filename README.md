@@ -1,11 +1,11 @@
 # 👋 Hi, I'm a Developer!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:2563EB,100:9333EA&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Development%20%7C%20Cybersecurity&descAlignY=60&descSize=17" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:2563EB,100:9333EA&height=180§ion=header&text=Welcome%20to%20my%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Development%20%7C%20Cybersecurity&descAlignY=60&descSize=17" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Web+Developer;Computer+Science+Student;Cybersecurity+Enthusiast;Technology+%26+Networking+Lover" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF¢er=true&vCenter=true&width=600&lines=Web+Developer;Computer+Science+Student;Cybersecurity+Enthusiast;Technology+%26+Networking+Lover" />
 </p>
 
 ---
@@ -63,19 +63,19 @@ I'm currently developing my cybersecurity knowledge through practical exercises 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=Oblicion0x9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 </p>
 
 ### Most Used Languages
 
 <p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oblicion0x9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ### Contribution Streak
 
 <p align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="90%" src="https://streak-stats.demolab.com?user=Oblicion0x9&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -83,7 +83,7 @@ I'm currently developing my cybersecurity knowledge through practical exercises 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Oblicion0x9">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.hackthebox.com/">
@@ -98,5 +98,5 @@ I'm currently developing my cybersecurity knowledge through practical exercises 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:2563EB,100:9333EA&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:2563EB,100:9333EA&height=100§ion=footer" width="100%" />
 </p>
